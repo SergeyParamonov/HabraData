@@ -18,14 +18,18 @@ habra_dataset_weekly.csv  -- Все статьи из лучшего за нед
 
 Формат собранных статей:
 id, title, author, score, views, favors, isTutorial
+
 post_152563,Делаем уроки на Хабре,Boomburum,+137,23991,58,1
-post_152569,Проект 3D-принтера высокого разрешения Form 1 от FormLabs на Кикстартере,SLY_G,+29,25786,53,0
-post_152571,Новое API в Gingerbread — StrictMode. Или боремся с ANR-диалогами,TheDimasig,+8,6643,52,1
-post_152575,Опыт использования Palm Pixi Plus,JetP1L0t,+6,12331,9,0
+
+post_152569,Проект 3D-принтера ...,SLY_G,+29,25786,53,0
+
+post_152571,Новое API в Gingerbread...,TheDimasig,+8,6643,52,1
+
+post_152575,Опыт использования Palm ...,JetP1L0t,+6,12331,9,0
 .....
-post_152641,Code Venture: Инвестиции человеко-часами,Offenso,+3,3187,16,0
-post_152643,Подушка comma(*)  которая позволяет уснуть где угодно и не замечать окружающих,sharamyshara,+38,30265,72,0
-post_152645,Case study: Дневник.ру и Windows Azure,XaocCPS,+2,3729,7,0
+post_152641,Code Venture: Инвестиции...,Offenso,+3,3187,16,0
+post_152643,Подушка comma(*)  которая ..,sharamyshara,+38,30265,72,0
+post_152645,Case study: Дневник.ру и ...,XaocCPS,+2,3729,7,0
 ....
 *Все запятые в заголовках заменены на comma 
 
