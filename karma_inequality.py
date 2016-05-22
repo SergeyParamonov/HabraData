@@ -22,9 +22,10 @@ followers = data['followers']
 rating   = data['rating']
 
 def main():
+    pass
     #hist = data['karma'].plot(kind='hist', bins=1000)
     
-    get_overall_distribution(rating, u"рейтинга по количеству пользователей", u"Рейтинг", u"Количество таких пользователей")
+#   get_overall_distribution(rating, u"рейтинга по количеству пользователей", u"Рейтинг", u"Количество таких пользователей")
 #   make_2d_scatter(karma, rating, u"Карма", u"Рейтинг", u"Зависимость рейтинга от кармы")
 #   make_2d_scatter(followers, karma, u"Число подписчиков", u"Карма", u"Зависимость кармы от числа подписчиков")
   # make_bar(pubs,"статей", step=0.1)
